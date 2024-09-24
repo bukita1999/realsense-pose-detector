@@ -14,6 +14,8 @@ To run an example use the basic python command to start up the script.
 ```bash
 # start pose detection with realsense camera
 python pose.py
+
+> Python 3.11 is recommended for new code. (2024/09/24) The code has been well performed on Windows 10.
 ```
 
 ### Full-Body Pose Landmark Model (BlazePose Tracker)
